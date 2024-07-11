@@ -12,8 +12,9 @@
 • After loading a code, you can click "Confirm" to pay or "Cancel" to abort;  
 • Automatically detects the ShipyardExpansion mod.
   
-**CREDITS:** The parser that converts a boat customization to a code and vice-versa was made by @NANDBrew!    
-
+**CREDITS:** The parser that converts a boat customization to a code and vice-versa was made by @NANDBrew!   
+Link: https://gist.github.com/NANDbrew/01ec847ecd91b8ba544dc87626e3177c#file-compressedconfigutility-cs   
+  
 **Requirements: Requires BepInEx**  
 **Installation:** Download the ShipyardCodes.zip and extract it into the *...\Sailwind\BepInEx\plugins* folder.  
 **Game version:** *0.27+*  
